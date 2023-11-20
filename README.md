@@ -1,1 +1,1 @@
-# Quizify
+# Quizify Project
